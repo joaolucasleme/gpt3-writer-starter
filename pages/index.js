@@ -19,7 +19,6 @@ const Home = () => {
     <div className="prompt-container">
           <textarea placeholder="start typing here" className="prompt-box" />
         </div>
-        </div>
       </div>
       <div className="badge-container grow">
         <a
