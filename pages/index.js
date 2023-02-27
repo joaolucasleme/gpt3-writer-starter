@@ -38,10 +38,10 @@ const callGenerateEndpoint = async () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Escreva o rascunho do seu CV - FÁCIL</h1>
+            <h1>Escreva o rascunho do seu CV com IA</h1>
           </div>
           <div className="header-subtitle">
-            <h2>se descreva o melhor possível pra mim, como se estivesse contando para um amigo - quanto mais informação melhor</h2>
+            <h2>descreva-se o melhor possível, como se estivesse contando para um amigo. diga seu nome, idade, experiências profissionais e ferramentas que domina - quanto mais informação melhor!</h2>
           </div>
         </div>
         <div className="prompt-container">
