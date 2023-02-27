@@ -41,12 +41,12 @@ const callGenerateEndpoint = async () => {
             <h1>Escreva o rascunho do seu CV com IA</h1>
           </div>
           <div className="header-subtitle">
-            <h2>descreva-se o melhor possível, como se estivesse contando para um amigo. diga seu nome, idade, experiências profissionais e ferramentas que domina - quanto mais informação melhor!</h2>
+            <h2>use o poder da inteligência artifical para te ajudar a começar a escrever um CV profissional!</h2>
           </div>
         </div>
         <div className="prompt-container">
           <textarea 
-          placeholder="start typing here" 
+          placeholder="descreva-se o melhor possível, como se estivesse contando para um amigo. diga seu nome, idade, experiências profissionais e ferramentas que domina - quanto mais informação melhor!" 
           className="prompt-box" 
           value={userInput}
           onChange={onUserChangedText}
